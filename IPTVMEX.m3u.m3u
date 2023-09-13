@@ -1,0 +1,224 @@
+#EXTM3U
+#EXTINF:60,AZTECA 1
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0, LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch44
+#EXTINF:0, Las Estrellas HD
+http://190.83.60.34:1414/play/a06j
+#EXTINF:60, FORO TV
+#EXTVLCOPT:network-caching=1000
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1684196609~acl=/*~hmac=e157ff5d656dfc528fddb706d6d4d8fd9d1efcf0670debe1a045b4bbd1088628
+#EXTINF:40,MILENIO
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:60,AZTECA 7
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:54,MVS TV
+#EXTVLCOPT:network-caching=1000
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:24,MEXIQUENSE TV
+#EXTVLCOPT:network-caching=1000
+https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDEyOjQyOjU4IEFNJmhhc2hfdmFsdWU9MnZwRFc0MVlRd1plUlc3azBQaGtkQT09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:60,ADN 40
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:60,TELEMUNDO PR
+#EXTVLCOPT:network-caching=1000
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:53,ESTRELLA TV
+#EXTVLCOPT:network-caching=1000
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0, BABYTV
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch01
+#EXTINF:0, CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch09
+#EXTINF:0, DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch02
+#EXTINF:0, DISNEY
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch03
+#EXTINF:0, DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch05
+#EXTINF:0, INFANTIL
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch06
+#EXTINF:0, ZOOMOO
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch04
+#EXTINF:0, AMC
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch13
+#EXTINF:0, CINECANAL
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch10
+#EXTINF:0, CINELATINO
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch12
+#EXTINF:0, CINE PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch49
+#EXTINF:0, CINE FAMILIAR
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch52
+#EXTINF:0, CINE HISPANO
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch51
+#EXTINF:0, DEPELICULA
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch57
+#EXTINF:0, Film&Arts
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch11
+#EXTINF:0, GOLDEN PLUS
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch46
+#EXTINF:0, GOLDEN EDGE
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch47
+#EXTINF:0, ESPN
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch16
+#EXTINF:0, ESPN HD
+http://190.83.60.34:1414/play/a036
+#EXTINF:0, ESPN HD
+http://190.83.60.34:1414/play/a01v
+#EXTINF:0, ESPN2
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch17
+#EXTINF:0, ESPN 2 HD
+http://190.83.60.34:1414/play/a02c
+#EXTINF:0, ESPN3
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch18
+#EXTINF:0, ESPN 3 HD
+http://190.83.60.34:1414/play/a026
+#EXTINF:0, ESPN4
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch19
+#EXTINF:0, ESPN 4 HD
+http://190.83.60.34:1414/play/a02w
+#EXTINF:0, ESPN EXTRA HD
+http://190.83.60.34:1414/play/a03n
+#EXTINF:0, FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch20
+#EXTINF:0, FOX Sports 2 HD
+http://190.83.60.34:1414/play/a02x
+#EXTINF:0, FOX SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch21
+#EXTINF:0, Fox Sports 3 HD
+http://190.83.60.34:1414/play/a027
+#EXTINF:0, Movistar Deportes HD
+http://190.83.60.34:1414/play/a05s
+#EXTINF:0, TNT SPORTS HD
+http://190.83.60.34:1414/play/a01h
+#EXTINF:0, ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch29
+#EXTINF:0, CARACOL
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch58
+#EXTINF:0, CGTN
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch32
+#EXTINF:0, DHE
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch14
+#EXTINF:0, DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch22
+#EXTINF:0, Discovery HD
+http://190.83.60.34:1414/play/a05a
+#EXTINF:0, DISCOVERY H&H
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch25
+#EXTINF:0, EL GOURMET
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch27
+#EXTINF:0, FOOD NETWORK
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch28
+#EXTINF:0, EL TIEMPO
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch42
+#EXTINF:0, FX
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch08
+#EXTINF:0, FX HD
+http://190.83.60.34:1414/play/a035
+#EXTINF:0, Food Network HD
+http://190.83.60.34:1414/play/a04i
+#EXTINF:0, History Channel HD
+http://190.83.60.34:1414/play/a01b
+#EXTINF:0, ID
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch23
+#EXTINF:0, GLITZ
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch34
+#EXTINF:0, MAS CHIC
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch33
+#EXTINF:0, MIMUSICA ROMANTICA
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch54
+#EXTINF:0, MIMUSICA SALSA
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch55
+#EXTINF:0, MIMUSICA POPULAR
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch56
+#EXTINF:0, NATGEO
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch30
+#EXTINF:0, Nat Geo HD
+http://190.83.60.34:1414/play/a03j
+#EXTINF:0, PASIONES
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch35
+#EXTINF:0, Paramount HD
+http://190.83.60.34:1414/play/a03v
+#EXTINF:0, RCN
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch59
+#EXTINF:0, Sony HD
+http://190.83.60.34:1414/play/a01d
+#EXTINF:0, Space HD
+http://190.83.60.34:1414/play/a01g
+#EXTINF:0, SUN CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch48
+#EXTINF:0, STAR
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch07
+#EXTINF:0, Studio Universal HD
+http://190.83.60.34:1414/play/a03w
+#EXTINF:0, TELEPASTO
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch15
+#EXTINF:0, FRANCE 24
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch43
+#EXTINF:0, TLC
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch26
+#EXTINF:0, TLNOVELAS
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch45
+#EXTINF:0, TNT HD
+http://190.83.60.34:1414/play/a025
+#EXTINF:0, TURBO
+#EXTVLCOPT:network-caching=1000
+http://204.199.120.34:16123/play/ch24
+#EXTINF:0, UNIVERSAL CHANNEL HD
+http://190.83.60.34:1414/play/a02u
+#EXTINF:0, Warner Channel HD
+http://190.83.60.34:1414/play/a01e
