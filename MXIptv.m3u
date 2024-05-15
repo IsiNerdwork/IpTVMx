@@ -1,0 +1,356 @@
+#EXTM3U
+#EXTINF:54,AZTECA 1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:60,LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+#EXTINF:11,CANAL DE LAS ESTRELLAS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:11,Imagen
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:60, FORO TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1684196609~acl=/*~hmac=e157ff5d656dfc528fddb706d6d4d8fd9d1efcf0670debe1a045b4bbd1088628
+#EXTINF:11,Cinco
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:11,Multimedios
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a039/index.m3u8
+#EXTINF:40,MULTIMEDIOS MTY
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:40,MILENIO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:60,AZTECA 7
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:60,AZTECA 7.2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:54,MVS TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:11,ONCE
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a03a/index.m3u8
+#EXTINF:11,OnceKids
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a04f/index.m3u8
+#EXTINF:11,Canal22
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a00j/index.m3u8
+#EXTINF:27,MEXIQUENSE TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDEyOjQyOjU4IEFNJmhhc2hfdmFsdWU9MnZwRFc0MVlRd1plUlc3azBQaGtkQT09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:60,ADN 40
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:60,TELEMUNDO PR
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:60,ESTRELLA TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:11,AXN
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:11,AXN HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:54,AZ UNO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:60,AZTECA UNO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:60,AZ 7
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:11,Azteca 7
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:60,AZTECA 7
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:11,Azcorazon
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a02z/index.m3u8
+#EXTINF:25,Babar
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:25,Service
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:25,Boom
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:8,Boomerang
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a02u/index.m3u8
+#EXTINF:8,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:25,Cazador de Homicidas
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:25,CBS News
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:8,CNNE
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a036/index.m3u8
+#EXTINF:8,Comedy Central
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:25,Comedy Central South Park
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:60,COMICS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://linear-208.frequency.stream/dist/vix/208/hls/master/playlist.m3u8
+#EXTINF:25,Conciertos por Stingray
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:8,Discovery
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:60,GOLDEN PLUS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:11,History
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:11,HISTORY 2 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:11,History2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:60,IMAGES WALL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://linear-144.frequency.stream/dist/vix/144/hls/master/playlist.m3u8
+#EXTINF:8,NatGeo
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:8,National Geographic
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a032/index.m3u8
+#EXTINF:8,Penthouse
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a04c/index.m3u8
+#EXTINF:8,SKY
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:8,Star TVE HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a00x/index.m3u8
+#EXTINF:8,Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a00k/index.m3u8
+#EXTINF:11,StudioUniversal
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:60,The Weather Channel (Es)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://linear-431.frequency.stream/dist/vix/431/hls/master/playlist.m3u8
+#EXTINF:8,TNT Series HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:8,TNTSeries
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:60,Vevo (Es)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://linear-494.frequency.stream/dist/vix/494/hls/master/playlist.m3u8
+#EXTINF:60,VEVO REGIONAL MEXICANO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://linear-494.frequency.stream/dist/vix/dist/vix/494/hls/master/playlist.m3u8
+#EXTINF:11,WB
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:11,A&E HD
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:11, AXN HD
+http://45.166.92.22:58001/play/a02n/index.m3u8
+#EXTINF:11,Animal Planet HD
+http://45.166.92.22:58001/play/a00m/index.m3u8
+#EXTINF:11, Antena 3
+http://45.166.92.22:58001/play/a041/index.m3u8
+#EXTINF:11, Azcorazon
+http://45.166.92.22:58001/play/a02z/index.m3u8
+#EXTINF:11, Boomerang
+http://45.166.92.22:58001/play/a02u/index.m3u8
+#EXTINF:11, CARTOON NT HD
+http://45.166.92.22:58001/play/a03y/index.m3u8
+#EXTINF:11, CHOLUSAT SUR
+http://45.166.92.22:58001/play/a04e/index.m3u8
+#EXTINF:11,CINECANAL HD
+http://45.166.92.22:58001/play/a04b/index.m3u8
+#EXTINF:11,CNNE
+http://45.166.92.22:58001/play/a036/index.m3u8
+#EXTINF:11, Cine Latino
+http://45.166.92.22:58001/play/a02c/index.m3u8
+#EXTINF:11, CineCanal
+http://45.166.92.22:58001/play/a02f/index.m3u8
+#EXTINF:11,DISCOVERY THEATHER HD
+http://45.166.92.22:58001/play/a014/index.m3u8
+#EXTINF:11, DISNEY HD
+http://45.166.92.22:58001/play/a04q/index.m3u8
+#EXTINF:11, Discovery Channel HD
+http://45.166.92.22:58001/play/a01n/index.m3u8
+#EXTINF:11, Discovery Home & Health
+http://45.166.92.22:58001/play/a027/index.m3u8
+#EXTINF:11,Discovery ID HD
+http://45.166.92.22:58001/play/a01s/index.m3u8
+#EXTINF:11, Discovery Kids HD
+http://45.166.92.22:58001/play/a04y/index.m3u8
+#EXTINF:11, Discovery Turbo
+http://45.166.92.22:58001/play/a026/index.m3u8
+#EXTINF:11, Discovery World HD
+http://45.166.92.22:58001/play/a01p/index.m3u8
+#EXTINF:11,E! Entertairment HD
+http://45.166.92.22:58001/play/a00n/index.m3u8
+#EXTINF:11, EWTN
+http://45.166.92.22:58001/play/a050/index.m3u8
+#EXTINF:11, Europa HD
+http://45.166.92.22:58001/play/a00t/index.m3u8
+#EXTINF:11, FOX NEWS HD
+http://45.166.92.22:58001/play/a04p/index.m3u8
+#EXTINF:11, FOX SPORTS 3 HD
+http://45.166.92.22:58001/play/a01j/index.m3u8
+#EXTINF:11, FX HD
+http://45.166.92.22:58001/play/a00s/index.m3u8
+#EXTINF:11, FX Movies HD
+http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:11,Film & arts HD
+http://45.166.92.22:58001/play/a00o/index.m3u8
+#EXTINF:11,France24
+http://45.166.92.22:58001/play/a057/index.m3u8
+#EXTINF:11, GOL TV HD
+http://45.166.92.22:58001/play/a04k/index.m3u8
+#EXTINF:11, HBO HD
+http://45.166.92.22:58001/play/a03s/index.m3u8
+#EXTINF:11, HBO Plus HD
+http://45.166.92.22:58001/play/a03u/index.m3u8
+#EXTINF:11, HBO XTREME
+http://45.166.92.22:58001/play/a03w/index.m3u8
+#EXTINF:11, HBO2 HD
+http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:11, HISTORY 2 HD
+http://45.166.92.22:58001/play/a04x/index.m3u8
+#EXTINF:11,HOLA! TV HD
+http://45.166.92.22:58001/play/a016/index.m3u8
+#EXTINF:11, HTV
+http://45.166.92.22:58001/play/a051/index.m3u8
+#EXTINF:11,History HD
+http://45.166.92.22:58001/play/a038/index.m3u8
+#EXTINF:11,Home & Health HD
+http://45.166.92.22:58001/play/a015/index.m3u8
+#EXTINF:11,MTV SIM HD
+http://45.166.92.22:58001/play/a018/index.m3u8
+#EXTINF:11, National Geographic
+http://45.166.92.22:58001/play/a032/index.m3u8
+#EXTINF:11, Paramount HD
+http://45.166.92.22:58001/play/a01l/index.m3u8
+#EXTINF:11, Pasiones HD
+http://45.166.92.22:58001/play/a01q/index.m3u8
+#EXTINF:11,SONY HD
+http://45.166.92.22:58001/play/a04a/index.m3u8
+#EXTINF:11, SPACE HD
+http://45.166.92.22:58001/play/a02o/index.m3u8
+#EXTINF:11,STAR CHANNEL HD
+http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:11, Star TVE HD
+http://45.166.92.22:58001/play/a00x/index.m3u8
+#EXTINF:11,Studio Universal HD
+http://45.166.92.22:58001/play/a00k/index.m3u8
+#EXTINF:11, TCM
+http://45.166.92.22:58001/play/a03l/index.m3u8
+#EXTINF:11, TLC
+http://45.166.92.22:58001/play/a04o/index.m3u8
+#EXTINF:11,TNT HD
+http://45.166.92.22:58001/play/a013/index.m3u8
+#EXTINF:11, TNT Series HD
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:11,Telemundo HD
+http://45.166.92.22:58001/play/a00r/index.m3u8
+#EXTINF:11, TyCSports HD
+http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:11,UNIVERSAL CINEMA ESTE HD
+http://45.166.92.22:58001/play/a01t/index.m3u8
+#EXTINF:11, Univision HD
+http://45.166.92.22:58001/play/a01r/index.m3u8
+#EXTINF:11,WARNER HD
+http://45.166.92.22:58001/play/a049/index.m3u8
