@@ -149,6 +149,96 @@ http://200.59.188.3:8000/play/a06t
 http://200.59.188.3:8000/play/a070
 #EXTINF:0,Warner Channel HD
 http://200.59.188.3:8000/play/a00h
+
+#EXTINF:0,AE Mundo
+http://clubtv.link/23jul/phpcode/geomex.php?c=a043&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Animal Planet
+http://clubtv.link/23jul/phpcode/geomex.php?c=a03x&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,AXN
+http://clubtv.link/23jul/phpcode/geomex.php?c=a04h&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:11,Canal Las Estrellas
+http://clubtv.link/23jul/phpcode/geomex.php?c=a044&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Cartoon Network
+http://clubtv.link/23jul/phpcode/geomex.php?c=a03e&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:11,Cinecanal
+http://clubtv.link/23jul/phpcode/geomex.php?c=a022&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Cinemax
+http://clubtv.link/23jul/phpcode/geomex.php?c=a04f&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,CNN Espanol
+http://clubtv.link/23jul/phpcode/geomex.php?c=a05p&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Discovery Channel
+http://clubtv.link/23jul/phpcode/geomex.php?c=a03w&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Discovery ID
+http://clubtv.link/23jul/phpcode/geomex.php?c=a05g&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Discovery Kids
+http://clubtv.link/23jul/phpcode/geomex.php?c=a05o&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Discovery Turbo
+http://clubtv.link/23jul/phpcode/geomex.php?c=a04l&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Disney Channel
+http://clubtv.link/23jul/phpcode/geomex.php?c=a03v&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Disney Jr
+http://clubtv.link/23jul/phpcode/geomex.php?c=a05q&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,E Entertainment
+http://clubtv.link/23jul/phpcode/geomex.php?c=a03z&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Enlace
+http://clubtv.link/23jul/phpcode/geomex.php?c=a03g&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:11,ESPN
+http://clubtv.link/23jul/phpcode/geomex.php?c=a041&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:11,ESPN 2
+http://clubtv.link/23jul/phpcode/geomex.php?c=a05t&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,ESPN 3
+http://clubtv.link/23jul/phpcode/geomex.php?c=a04m&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,ESPN 4
+http://clubtv.link/23jul/phpcode/geomex.php?c=a05l&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:60,Estrella News
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:0,Fox Sports 2
+http://clubtv.link/23jul/phpcode/geomex.php?c=a045&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Fox Sports 3
+http://clubtv.link/23jul/phpcode/geomex.php?c=a046&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,France 24
+http://clubtv.link/23jul/phpcode/geomex.php?c=a05h&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,FX
+http://clubtv.link/23jul/phpcode/geomex.php?c=a04j&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,GOL TV
+http://clubtv.link/23jul/phpcode/geomex.php?c=a042&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,HBO
+http://clubtv.link/23jul/phpcode/geomex.php?c=a04e&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:11,History Channel
+http://clubtv.link/23jul/phpcode/geomex.php?c=a039&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,HomeandHealth
+http://clubtv.link/23jul/phpcode/geomex.php?c=a05i&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,MTV
+http://clubtv.link/23jul/phpcode/geomex.php?c=a03b&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:11,National Geographic
+http://clubtv.link/23jul/phpcode/geomex.php?c=a021&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Nickelodeon
+http://clubtv.link/23jul/phpcode/geomex.php?c=a038&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:11,RCN Novelas
+http://clubtv.link/23jul/phpcode/geomex.php?c=a05f&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,RTS
+http://clubtv.link/23jul/phpcode/geomex.php?c=a04k&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Sony
+http://clubtv.link/23jul/phpcode/geomex.php?c=a04g&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Space
+http://clubtv.link/23jul/phpcode/geomex.php?c=a04i&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:11,STAR Channel
+http://clubtv.link/23jul/phpcode/geomex.php?c=a03c&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Studio Universal
+http://clubtv.link/23jul/phpcode/geomex.php?c=a05s&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,SyFy
+http://clubtv.link/23jul/phpcode/geomex.php?c=a03i&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,TCM
+http://clubtv.link/23jul/phpcode/geomex.php?c=a03d&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Telemundo
+http://clubtv.link/23jul/phpcode/geomex.php?c=a04n&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,TNT
+http://clubtv.link/23jul/phpcode/geomex.php?c=a03f&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:0,Universal
+http://clubtv.link/23jul/phpcode/geomex.php?c=a03a&token=TecnoplusJunio03&f=.m3u8
+#EXTINF:11,Warner
+http://clubtv.link/23jul/phpcode/geomex.php?c=a03y&token=TecnoplusJunio03&f=.m3u8
+
 #EXTINF:0,Pluto TV Cine Comedia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,Pluto TV Cine Terror
