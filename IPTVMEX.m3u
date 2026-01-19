@@ -1,16 +1,14 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 :http-referrer="",AZTECA 1
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 :http-referrer="",Las Estrellas (1080p)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 :http-referrer="",IMAGEN TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:-1 :http-referrer="",FORO TV 
+#EXTINF:-1 :http-referrer="",FORO TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 #EXTINF:-1 :http-referrer="",CDMX CANAL 6.1
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
-#EXTINF:-1 :http-referrer="",Canal 6 CDMX
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 #EXTINF:-1 :http-referrer="",MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 :http-referrer="",MILENIO
@@ -27,8 +25,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 :http-referrer="",MVS TV [Geo-blocked]
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 :http-referrer="https://www.canalcatorce.tv/",Canal Catorce
-#EXTVLCOPT:http-referrer=https://www.canalcatorce.tv/
+#EXTINF:-1 :http-referrer="",Canal Catorce
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1 :http-referrer="",Canal 22 Nacional (720p) [Geo-blocked]
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
@@ -38,14 +35,6 @@ https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wm
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 :http-referrer="",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 :http-referrer="",Bob Esponja
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 :http-referrer="",CBS News
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 :http-referrer="",Comedy Central South Park
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 :http-referrer="",Conciertos por Stingray
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 :http-referrer="",DW Español
 http://189.50.210.3:8008/play/a06u/index.m3u8
 #EXTINF:-1 :http-referrer="",ESTRELLA TV
@@ -56,8 +45,6 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 #EXTINF:-1 :http-referrer="",MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
-#EXTINF:-1 :http-referrer="",National Geographic Latin America
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 #EXTINF:-1 :http-referrer="",Universo NBC HD
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 :http-referrer="",RCN
@@ -196,20 +183,14 @@ http://189.50.210.3:8008/play/a05n/index.m3u8
 http://189.50.210.3:8008/play/a02k/index.m3u8
 #EXTINF:-1 :http-referrer="",Nickelodeon HD
 http://189.50.210.3:8008/play/a07f/index.m3u8
-#EXTINF:-1 :http-referrer="",Paramount HD
-http://189.50.210.3:8008/play/a04g/index.m3u8
 #EXTINF:-1 :http-referrer="",Pasiones HD
 http://189.50.210.3:8008/play/a07b/index.m3u8
 #EXTINF:-1 :http-referrer="",RAI
 http://189.50.210.3:8008/play/a06t/index.m3u8
-#EXTINF:-1 :http-referrer="",RCN HD
-http://189.50.210.3:8008/play/a04i/index.m3u8
 #EXTINF:-1 :http-referrer="",REC TV
 http://189.50.210.3:8008/play/a075/index.m3u8
 #EXTINF:-1 :http-referrer="",STAR CHANNEL HD
 http://189.50.210.3:8008/play/a02w/index.m3u8
-#EXTINF:-1 :http-referrer="",Se al Colombia
-http://189.50.210.3:8008/play/a069/index.m3u8
 #EXTINF:-1 :http-referrer="",Space HD
 http://189.50.210.3:8008/play/a02y/index.m3u8
 #EXTINF:-1 :http-referrer="",Studio Universal
@@ -236,16 +217,8 @@ http://189.50.210.3:8008/play/a07i/index.m3u8
 http://189.50.210.3:8008/play/a079/index.m3u8
 #EXTINF:-1 :http-referrer="",TVN HD
 http://189.50.210.3:8008/play/a045/index.m3u8
-#EXTINF:-1 :http-referrer="",Telecafe
-http://189.50.210.3:8008/play/a06f/index.m3u8
-#EXTINF:-1 :http-referrer="",Telecaribe
-http://189.50.210.3:8008/play/a06b/index.m3u8
-#EXTINF:-1 :http-referrer="",Teleislas
-http://189.50.210.3:8008/play/a06i/index.m3u8
 #EXTINF:-1 :http-referrer="",Telenovelas
 http://189.50.210.3:8008/play/a06n/index.m3u8
-#EXTINF:-1 :http-referrer="",Telepacifico
-http://189.50.210.3:8008/play/a06c/index.m3u8
 #EXTINF:-1 :http-referrer="",TyC Sports
 http://189.50.210.3:8008/play/a06x/index.m3u8
 #EXTINF:-1 :http-referrer="",USA
@@ -256,5 +229,3 @@ http://189.50.210.3:8008/play/a06y/index.m3u8
 http://189.50.210.3:8008/play/a05m/index.m3u8
 #EXTINF:-1 :http-referrer="",Warner Channel HD
 http://189.50.210.3:8008/play/a02x/index.m3u8
-#EXTINF:-1 :http-referrer="",Win Sports+ HD
-http://189.50.210.3:8008/play/a04n/index.m3u8
