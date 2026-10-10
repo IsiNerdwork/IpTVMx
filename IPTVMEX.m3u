@@ -1,237 +1,584 @@
 #EXTM3U
-#EXTINF:11,LAS ESTRELLAS
-http://45.5.119.43:4000/play/a05j/index.m3u8
-#EXTINF:11,LAS ESTRELLAS LEGAL
-http://45.5.119.43:4000/play/a02c/index.m3u8
+#EXTINF:0,ENC: AZTECA 7 1
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491857
+#EXTINF:0,ENC: AZTECA UNO
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491842
+#EXTINF:0,ENC: AZTECA 7 2
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491858
+#EXTINF:0,AZTECA 1 HEVC H265 (XHDF-TDT)
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72573
+#EXTINF:0,ENC: AZTECA UNO -1 HR
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491843
+#EXTINF:0,AZTECA UNO -1 HRS
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/89359
 #EXTINF:30,Las Estrellas (1080p)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:120,IMAGEN TV
+#EXTINF:0,ESTRELLAS (102-XEWD.F) (TP)
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/89857
+#EXTINF:0,ESTRELLA HD CDMX HEVC H265
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72580
+#EXTINF:0,ESTRELLAS -2 HRS
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72579
+#EXTINF:0,IMAGEN TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:11,5 Mexicano
-http://45.5.119.43:4000/play/a05o/index.m3u8
-#EXTINF:40,CDMX CANAL 6.1
+#EXTINF:0,ENC: IMAGEN TV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491845
+#EXTINF:0,Canal 5 HD Mexico
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73530
+#EXTINF:0,Canal 5 HEVC (XHGC-TDT)
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72585
+#EXTINF:0,Canal 5 Op-2 C
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/75557
+#EXTINF:0,ENC: CANAL 5
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491848
+#EXTINF:0,ENC: CANAL 5
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491849
+#EXTINF:0,CDMX CANAL 6.1
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?
-#EXTINF:40,MULTIMEDIOS MTY
+#EXTINF:0,MULTIMEDIOS MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:40,MILENIO
+#EXTINF:0,ENC: MULTIMEDIOS CDENC
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491851
+#EXTINF:0,ENC: MULTIMEDIOS GDL
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491854
+#EXTINF:0,ENC: MULTIMEDIOS LAGUNA
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491853
+#EXTINF:0,ENC: MULTIMEDIOS PUEBLA
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491855
+#EXTINF:0,ENC: MULTIMEDIOS TELEDIARIO NOW
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491850
+#EXTINF:0,MILENIO
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:11,Azteca 7
-http://45.5.119.43:4000/play/a026/index.m3u8
-#EXTINF:102,AZTECA 7.2
+#EXTINF:0,ENC: MILENIO
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491864
+#EXTINF:0,ENC: AZTECA 7
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491856
+#EXTINF:0,ENC: A+
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491862
+#EXTINF:0,AZTECA 7.2
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:60,Azteca Internacional (1080p)
+#EXTINF:0,Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:58,MVS TV
+#EXTINF:0,ENC: N+ FORO
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491865
+#EXTINF:0,ENC: CANAL NU9VE
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491860
+#EXTINF:0,MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:58,MVS TV [Geo-blocked]
+#EXTINF:0,MVS TV [Geo-blocked]
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:24,Canal Catorce
+#EXTINF:0,Canal Catorce
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
-#EXTINF:30,MEXIQUENSE TV
+#EXTINF:0,MEXIQUENSE TV
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIzIDEyOjQyOjU4IEFNJmhhc2hfdmFsdWU9MnZwRFc0MVlRd1plUlc3azBQaGtkQT09JnZhbGlkbWludXRlcz01JmlkPQ==
-#EXTINF:32,AMX Noticias (720p) [Not 24/7]
+#EXTINF:0,AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:102,ADN 40
+#EXTINF:0,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:60,ESTRELLA TV
+#EXTINF:0,ENC: ADN 40
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491861
+#EXTINF:0,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:60,Estrella News (1080p)
+#EXTINF:0,Estrella News (1080p)
 https://estrella-news-oando.amagi.tv/playlist.m3u8
-#EXTINF:47,Universo HD
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-#EXTINF:60,RCN
+#EXTINF:0,RCN
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:7200,STAR TVE AMERICA HD
+#EXTINF:0,STAR TVE AMERICA HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
-#EXTINF:100,TELEFORMULA
+#EXTINF:0,TELEFORMULA
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8?
-#EXTINF:60,Telemundo
+#EXTINF:0,Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:47,Telemundo HD
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-#EXTINF:60,TELEMUNDO PR
+#EXTINF:0,TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:100,TELERITMO 6.3
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:11,TUDN
-http://45.5.119.43:4000/play/a05q/index.m3u8
-#EXTINF:11,TUDN
+#EXTINF:0,TUDN
 http://200.115.120.1:8000/play/ca039/index.m3u8
 #EXTINF:7200,TVE INTERNACIONAL AMERICA HD
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
-#EXTINF:11,Baby First
-http://45.5.119.43:4000/play/a03i/index.m3u8
-#EXTINF:11,Boomerang
-http://45.5.119.43:4000/play/a0g0/index.m3u8
-#EXTINF:11,CARTOON NETWORK HD
-http://45.5.119.43:4000/play/a0l0/index.m3u8
-#EXTINF:11,CARTOON NETWORK HD
-http://45.5.119.43:4000/play/a02j/index.m3u8
-#EXTINF:0,Discovery Kids
-http://45.5.119.43:4000/play/a03l/index.m3u8
-#EXTINF:0,Disney JR
-http://45.5.119.43:4000/play/a0g1/index.m3u8
-#EXTINF:0,Disney channel
-http://45.5.119.43:4000/play/a0i8/index.m3u8
-#EXTINF:0,SEMILLITAS
-http://45.5.119.43:4000/play/a0g3/index.m3u8
-#EXTINF:11,Tooncast
-http://45.5.119.43:4000/play/a03k/index.m3u8
-#EXTINF:11,Adult Swim
-http://45.5.119.43:4000/play/a051/index.m3u8
-#EXTINF:11,Concert Channel
-http://45.5.119.43:4000/play/a02r/index.m3u8
-#EXTINF:0,Exa TV
-http://45.5.119.43:4000/play/a0hk/index.m3u8
-#EXTINF:11,Claro Sports  HD
-http://45.5.119.43:4000/play/a0kz/index.m3u8
-#EXTINF:11,ESPN 2 HD
-http://45.5.119.43:4000/play/a053/index.m3u8
-#EXTINF:11,ESPN 3 HD
-http://45.5.119.43:4000/play/a054/index.m3u8
-#EXTINF:11,ESPN  4 HD
-http://45.5.119.43:4000/play/a028/index.m3u8
-#EXTINF:11,ESPN 5 HD
-http://45.5.119.43:4000/play/a0ix/index.m3u8
-#EXTINF:11,ESPN 6 HD
-http://45.5.119.43:4000/play/a0kj/index.m3u8
-#EXTINF:11,ESPN HD
-http://45.5.119.43:4000/play/a052/index.m3u8
-#EXTINF:0,Golf Channel HD
-http://45.5.119.43:4000/play/a0h1/index.m3u8
-#EXTINF:0,Tigo Sports HD
-http://45.5.119.43:4000/play/a02v/index.m3u8
-#EXTINF:0,Pasiones HD
-http://45.5.119.43:4000/play/a0kq/index.m3u8
-#EXTINF:0,RCN Novelas
-http://45.5.119.43:4000/play/a0jn/index.m3u8
-#EXTINF:11,Telemundo HD
-http://45.5.119.43:4000/play/a0gv/index.m3u8
-#EXTINF:11,Univision HD
-http://45.5.119.43:4000/play/a0kr/index.m3u8
-#EXTINF:0,AZ click HD
-http://45.5.119.43:4000/play/a0gz/index.m3u8
-#EXTINF:0,Azcorazon
-http://45.5.119.43:4000/play/a0g6/index.m3u8
-#EXTINF:0,Azmundo
-http://45.5.119.43:4000/play/a0h8/index.m3u8
-#EXTINF:0,DISCOVERY THEATHER HD
-http://45.5.119.43:4000/play/a0hv/index.m3u8
-#EXTINF:0,Discovery Channel HD
-http://45.5.119.43:4000/play/a0kn/index.m3u8
-#EXTINF:0,Discovery ID HD
-http://45.5.119.43:4000/play/a0ks/index.m3u8
-#EXTINF:0,Discovery Turbo
-http://45.5.119.43:4000/play/a0ia/index.m3u8
-#EXTINF:0,Discovery World HD
-http://45.5.119.43:4000/play/a0kp/index.m3u8
-#EXTINF:0,El Gourmet
-http://45.5.119.43:4000/play/a04v/index.m3u8
-#EXTINF:0,FX HD
-http://45.5.119.43:4000/play/a0gw/index.m3u8
-#EXTINF:0,HBO Family HD
-http://45.5.119.43:4000/play/a0l5/index.m3u8
-#EXTINF:0,HBO HD
-http://45.5.119.43:4000/play/a0l2/index.m3u8
-#EXTINF:0,HBO Plus HD
-http://45.5.119.43:4000/play/a0l4/index.m3u8
-#EXTINF:0,HBO XTREME HD
-http://45.5.119.43:4000/play/a0l6/index.m3u8
-#EXTINF:0,HBO2 HD
-http://45.5.119.43:4000/play/a00c/index.m3u8
-#EXTINF:0,History 2
-http://45.5.119.43:4000/play/a0jp/index.m3u8
-#EXTINF:11,History Channel HD
-http://45.5.119.43:4000/play/a0gk/index.m3u8
-#EXTINF:0,SONY HD
-http://45.5.119.43:4000/play/a0hp/index.m3u8
-#EXTINF:0,SONY MOVIES HD
-http://45.5.119.43:4000/play/a03s/index.m3u8
-#EXTINF:0,STAR CHANNEL HD
-http://45.5.119.43:4000/play/a0hn/index.m3u8
-#EXTINF:0,STAR LIFE
-http://45.5.119.43:4000/play/a0g4/index.m3u8
-#EXTINF:0,Sun Channel
-http://45.5.119.43:4000/play/a050/index.m3u8
-#EXTINF:0,TNT HD
-http://45.5.119.43:4000/play/a0hu/index.m3u8
-#EXTINF:0,TNT Novelas
-http://45.5.119.43:4000/play/a0g9/index.m3u8
-#EXTINF:0,TNT Series HD
-http://45.5.119.43:4000/play/a0km/index.m3u8
-#EXTINF:0,UNIVERSAL CINEMA HD
-http://45.5.119.43:4000/play/a0kt/index.m3u8
-#EXTINF:0,UNIVERSAL COMEDY HD
-http://45.5.119.43:4000/play/a0i5/index.m3u8
-#EXTINF:0,UNIVERSAL CRIME HD
-http://45.5.119.43:4000/play/a0i4/index.m3u8
-#EXTINF:0,UNIVERSAL PREMIERE HD
-http://45.5.119.43:4000/play/a0i1/index.m3u8
-#EXTINF:0,UNIVERSAL PREMIERE O HD
-http://45.5.119.43:4000/play/a0i2/index.m3u8
-#EXTINF:0,UNIVERSAL REALITY HD
-http://45.5.119.43:4000/play/a0i3/index.m3u8
+#EXTINF:0,AMC +
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488453
+#EXTINF:0,AMC en Español HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488454
 #EXTINF:0,AMC HD
-http://45.5.119.43:4000/play/a0gu/index.m3u8
-#EXTINF:0,AXN HD
-http://45.5.119.43:4000/play/a0iy/index.m3u8
-#EXTINF:0,Animal Planet HD
-http://45.5.119.43:4000/play/a0gq/index.m3u8
-#EXTINF:0,CINECANAL HD
-http://45.5.119.43:4000/play/a0hq/index.m3u8
-#EXTINF:0,CNN Español
-http://45.5.119.43:4000/play/a0gi/index.m3u8
-#EXTINF:0,Canal Claro
-http://45.5.119.43:4000/play/a0fv/index.m3u8
-#EXTINF:0,Cine Latino
-http://45.5.119.43:4000/play/a0ik/index.m3u8
-#EXTINF:0,CineMax
-http://45.5.119.43:4000/play/a0il/index.m3u8
-#EXTINF:0,DHE HD
-http://45.5.119.43:4000/play/a0gy/index.m3u8
-#EXTINF:0,E! Entertairment HD
-http://45.5.119.43:4000/play/a0gr/index.m3u8
-#EXTINF:0,Film & arts HD
-http://45.5.119.43:4000/play/a0gs/index.m3u8
-#EXTINF:0,Golden
-http://45.5.119.43:4000/play/a0jv/index.m3u8
-#EXTINF:0,HOLA! TV HD
-http://45.5.119.43:4000/play/a0hx/index.m3u8
-#EXTINF:0,Home & Health HD
-http://45.5.119.43:4000/play/a0hw/index.m3u8
-#EXTINF:0,LIFE TIME
-http://45.5.119.43:4000/play/a0gb/index.m3u8
-#EXTINF:0,Multipremier
-http://45.5.119.43:4000/play/a0ij/index.m3u8
-#EXTINF:0,Nat Geo HD
-http://45.5.119.43:4000/play/a0kk/index.m3u8
-#EXTINF:0,SPACE HD
-http://45.5.119.43:4000/play/a0iz/index.m3u8
-#EXTINF:0,Star TVE HD
-http://45.5.119.43:4000/play/a0h0/index.m3u8
-#EXTINF:0,TCM
-http://45.5.119.43:4000/play/a0jw/index.m3u8
-#EXTINF:0,TLC
-http://45.5.119.43:4000/play/a0hh/index.m3u8
-#EXTINF:0,TVE
-http://45.5.119.43:4000/play/a04y/index.m3u8
-#EXTINF:0,Universal
-http://45.5.119.43:4000/play/a0ih/index.m3u8
-#EXTINF:11,WARNER HD
-http://45.5.119.43:4000/play/a0ho/index.m3u8
-#EXTINF:0,Cartoon Network
-http://45.5.119.43:4000/play/a029/index.m3u8
-#EXTINF:11,Claro Sports 3 HD
-http://45.5.119.43:4000/play/a024/index.m3u8
-#EXTINF:0,DE PELICULA
-http://45.5.119.43:4000/play/a05n/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72612
+#EXTINF:0,AMC Thrillers
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488455
+#EXTINF:0,ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72588
+#EXTINF:0,Aym HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488449
+#EXTINF:0,BABY TV MX (c)
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72602
+#EXTINF:0,BabyTV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490716
+#EXTINF:0,beIN SPORTS en Español
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488239
+#EXTINF:0,beIN SPORTS XTRA
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488590
+#EXTINF:0,BIG THE NETWORK E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491444
+#EXTINF:0,Boomerang East
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490720
+#EXTINF:0,BRAVO E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491445
+#EXTINF:0,Cartoon Network & Adult Swim
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491320
+#EXTINF:0,CINECANAL HD (c)
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72613
+#EXTINF:0,Cinelatino HQ
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488439
+#EXTINF:0,CINEMAX HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72620
+#EXTINF:0,CLARO SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72656
+#EXTINF:0,COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72583
+#EXTINF:0,Comedy Central E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491447
+#EXTINF:0,Discovery en Español E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491448
+#EXTINF:0,Discovery en Español HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488429
+#EXTINF:0,Discovery Familia HQ
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488430
+#EXTINF:0,DISCOVERY KIDS MX HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72607
+#EXTINF:0,DISCOVERY WORLD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72590
+#EXTINF:0,Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490735
+#EXTINF:0,DISNEY CHANNEL (c)
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72605
+#EXTINF:0,DISNEY JR HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72606
+#EXTINF:0,Disney XD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490736
 #EXTINF:0,DISTRITO COMEDIA
-http://45.5.119.43:4000/play/a05l/index.m3u8
-#EXTINF:11,LA LIGA
-http://45.5.119.43:4000/play/a05r/index.m3u8
-#EXTINF:0,TELEMUNDO MIAMI
-http://45.5.119.43:4000/play/a05m/index.m3u8
-#EXTINF:11,TIGO GT
-http://45.5.119.43:4000/play/a05t/index.m3u8
-#EXTINF:0,TL NOVELAS
-http://45.5.119.43:4000/play/a05k/index.m3u8
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72582
+#EXTINF:0,ESPN 2 EN HD E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491440
+#EXTINF:0,ESPN EN HD E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491439
+#EXTINF:0,ESPN U HD E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491442
+#EXTINF:0,ESPNews HD E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491441
+#EXTINF:0,Estrella TV E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491449
+#EXTINF:0,Euronews FHD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488442
+#EXTINF:0,FIGHT NETWORK 77
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72653
+#EXTINF:0,Filmex Clasico
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/204851
+#EXTINF:0,FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72657
+#EXTINF:0,FOX SPORTS 3 H264
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/261862
+#EXTINF:0,FS 1 E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491425
+#EXTINF:0,FS2 E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491438
+#EXTINF:0,GET Comedy
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491343
+#EXTINF:0,Hallmark Channel E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491421
+#EXTINF:0,Hallmark Family E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491422
+#EXTINF:0,Hallmark Mystery E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491423
+#EXTINF:0,Hallmark Mystery E HDTV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491424
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491933
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491916
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491917
+#EXTINF:0,HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72636
+#EXTINF:0,HBO EXTREME
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72641
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72635
+#EXTINF:0,HBO PLUS C
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72637
+#EXTINF:0,HBO SIGNATURE
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491927
+#EXTINF:0,HBO SIGNATURE
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491928
+#EXTINF:0,HBO SIGNATURE
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491929
+#EXTINF:0,HBO2
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491935
+#EXTINF:0,HDTV  NBC Sports Now E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491508
+#EXTINF:0,HDTV A&E E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491524
+#EXTINF:0,HDTV Action Max E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491481
+#EXTINF:0,HDTV BTN E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491527
+#EXTINF:0,HDTV HBO Latino E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491475
+#EXTINF:0,HDTV MoreMax E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491482
+#EXTINF:0,HDTV MSG Plus 2 E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491492
+#EXTINF:0,HDTV MSG Plus E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491491
+#EXTINF:0,HDTV NBA TV E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491495
+#EXTINF:0,HDTV NBC 10 Philadelphia E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491496
+#EXTINF:0,HDTV NBC 11 Alive Atlanta E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491497
+#EXTINF:0,HDTV NBC 12 Phoenix E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491498
+#EXTINF:0,HDTV NBC 7 San Diego E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491502
+#EXTINF:0,HDTV NBC KSNV Las Vegas E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491505
+#EXTINF:0,HDTV NBC New York E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491506
+#EXTINF:0,HDTV NBC Universo E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491511
+#EXTINF:0,HDTV NESN E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491512
+#EXTINF:0,HDTV PAC-12 Network E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491515
+#EXTINF:0,HDTV Spectrum Sportsnet Lakers E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491519
+#EXTINF:0,HDTV T-UDN USA E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491522
+#EXTINF:0,HDTV YES Network E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491523
+#EXTINF:0,History en Español HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488270
+#EXTINF:0,HLN E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491451
+#EXTINF:0,HOLA TV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72576
+#EXTINF:0,IMAGEN TV IHD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72575
+#EXTINF:0,INVESTIGATION DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72594
+#EXTINF:0,KANAL D Drama HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488438
+#EXTINF:0,Love Nature HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488446
+#EXTINF:0,MC HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72629
+#EXTINF:0,MEA TV E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491452
+#EXTINF:0,MGM+ Drive-In EN HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488424
+#EXTINF:0,MGM+ EN HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488423
+#EXTINF:0,MGM+ Hits EN HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488425
+#EXTINF:0,MGM+ Marquee EN HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488426
+#EXTINF:0,MLB Network E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491453
+#EXTINF:0,MoviPlex
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488396
+#EXTINF:0,MSNBC E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491454
+#EXTINF:0,MTV HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72647
+#EXTINF:0,Multimedio Laguna HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73529
+#EXTINF:0,MULTIPREMIER MP
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72628
+#EXTINF:0,NBA TV E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491455
+#EXTINF:0,NFL HD 77
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72662
+#EXTINF:0,Nick Jr.
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490731
+#EXTINF:0,NickToons
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490729
+#EXTINF:0,PANICO FHD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/299634
+#EXTINF:0,PARAMOUNT
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72617
+#EXTINF:0,Paramount+ with SHOWTIME
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488601
+#EXTINF:0,Paramount+ with SHOWTIME West
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488602
+#EXTINF:0,Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488440
+#EXTINF:0,PASIONES HD 77
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72600
+#EXTINF:0,Showtime 2 E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491399
+#EXTINF:0,SHOWTIME 2 HD E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491300
+#EXTINF:0,Showtime Extreme E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491400
+#EXTINF:0,Showtime Family Zone E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491401
+#EXTINF:0,Showtime Next  E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491402
+#EXTINF:0,Showtime Showcase E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491403
+#EXTINF:0,Showtime Women E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491404
+#EXTINF:0,Sonic
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490724
+#EXTINF:0,SONY CINE
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72618
+#EXTINF:0,SONY CINE EAST E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491473
+#EXTINF:0,Start TV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491420
+#EXTINF:0,Starz Cinema West E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491406
+#EXTINF:0,STARZ COMEDY E HDTV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491407
+#EXTINF:0,STARZ E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491405
+#EXTINF:0,STARZ EDGE E HDTV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491408
+#EXTINF:0,STARZ ENCODER BLACK E HDTV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491411
+#EXTINF:0,STARZ ENCODER CLASSIC E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491412
+#EXTINF:0,STARZ ENCORE ACTION E HDTV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491410
+#EXTINF:0,STARZ ENCORE E HDTV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491409
+#EXTINF:0,STARZ ENCORE ESPAÑOL E HDTV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491413
+#EXTINF:0,STARZ ENCORE FAMILY E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491414
+#EXTINF:0,STARZ ENCORE SUSPENSE E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491415
+#EXTINF:0,STARZ ENCORE West E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491302
+#EXTINF:0,STARZ ENCORE WESTE E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491416
+#EXTINF:0,STARZ ENCORE WESTERN E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491417
+#EXTINF:0,STARZ IN BLACK E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491418
+#EXTINF:0,STARZ in Black HD E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491303
+#EXTINF:0,Starz Kids & Family
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/490723
+#EXTINF:0,STARZ KIDS & FAMILY E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491419
+#EXTINF:0,STARZ Kids & Family HD E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491304
+#EXTINF:0,STUDIO UNIVERSAL IHD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72621
+#EXTINF:0,TBS Norte HD
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488598
+#EXTINF:0,TELEMUNDO INTERNACIONAL
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72581
+#EXTINF:0,The Cowboy Channel
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488417
+#EXTINF:0,The Movie Channel East HD E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491483
+#EXTINF:0,The Walking Dead Universe
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488416
+#EXTINF:0,TL NOVELA
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72599
+#EXTINF:0,TLC HD Latino
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72598
+#EXTINF:0,TNT HD Norte
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488414
+#EXTINF:0,TNT Latino HD c
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73611
+#EXTINF:0,Travelxp HD Latino
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488445
+#EXTINF:0,UNIVERSAL PREMIER
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72625
+#EXTINF:0,UNIVERSO E
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/491456
+#EXTINF:0,Warner TV
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72643
+#EXTINF:0,Zona TUDN
+#EXTVLCOPT:network-caching=1000
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/488589
